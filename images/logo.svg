@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="THMA&R logo">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#8b7cff"/>
+      <stop offset="100%" stop-color="#2dd4bf"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="120" height="120" rx="28" fill="#07111f" stroke="url(#g)" stroke-width="4"/>
+  <circle cx="64" cy="64" r="30" fill="none" stroke="url(#g)" stroke-width="6"/>
+  <path d="M42 46h18c10 0 18 7 18 17s-8 17-18 17H42z" fill="url(#g)" opacity="0.95"/>
+  <path d="M48 52h11c6 0 10 4 10 10s-4 10-10 10H48z" fill="#07111f"/>
+  <path d="M78 42h10v44H78z" fill="#ffffff" opacity="0.92"/>
+  <path d="M90 48h10v38H90z" fill="#c7d2fe" opacity="0.92"/>
+</svg>
